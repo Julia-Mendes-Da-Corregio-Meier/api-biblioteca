@@ -1,1 +1,1 @@
-Status do catálogo: cadastro concluído
+Status do catálogo: cadastro concluído e testado
